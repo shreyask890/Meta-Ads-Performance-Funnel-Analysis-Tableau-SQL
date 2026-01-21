@@ -46,9 +46,9 @@ Based on the data analysis, the following patterns emerged:
 
 ## 📊 Dashboard Visuals
 
+<img width="1440" height="864" alt="Screenshot 2026-01-21 at 7 32 14 PM" src="https://github.com/user-attachments/assets/f067657d-e402-4ad3-bf8c-ede50c8c6ab7" />
 
-
-[![Dashboard Screenshot](<img width="1440" height="864" alt="Screenshot 2026-01-21 at 7 32 14 PM" src="https://github.com/user-attachments/assets/f067657d-e402-4ad3-bf8c-ede50c8c6ab7" />)](https://public.tableau.com/views/MetaAdPerfomanceDasbboard/Dashboard1)
+[![Dashboard](<img width="1440" height="864" alt="Screenshot 2026-01-21 at 7 32 14 PM" src="https://github.com/user-attachments/assets/f067657d-e402-4ad3-bf8c-ede50c8c6ab7" />)](https://public.tableau.com/views/MetaAdPerfomanceDasbboard/Dashboard1)
 * **KPI Cards:** Tracking Total Impressions (216K), Spend ($2.5M), and CTR.
 * **Funnel Analysis:** Visualizing the drop-off from Awareness to Purchase.
 * **Donut Charts:** Breaking down engagement by Gender and Device.
